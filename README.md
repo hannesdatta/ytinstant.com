@@ -1,4 +1,4 @@
-# [YouTube Instant](https://ytinstant.com) - Really fast YouTube search.
+# [YouTube Instant](https://ytinstant.com) - Really fast YouTube search that does not work.
 
 It started out as a bet with my roommate, Jake Becker. I bet him I could build real-time YouTube search in less than an hour. Sadly, I lost the bet – It took me 3 hours to finish it, and another couple hours to polish the user interface into what you see now at [YTInstant.com](https://ytinstant.com). But, I’m happy with the result.
 
